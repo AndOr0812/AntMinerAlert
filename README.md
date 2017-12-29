@@ -10,7 +10,8 @@
 # Example for my L3+ I made L3plus.properties
 # in the properties file all values which you see below can be configured
 # I described all values of which I know what they mean
-# If an value is > or < then and alertmail will be sent from alert.antminer@gmail.com
+# If an value is > or < then and alertmail will be sent from alert.antminer@gmail.com 
+# If you download and compile the sourcecode then the from email can be changed to your own e-mail address 
 # Manual action needs to be taken, this tool is purely mend to notify you in case of an issue / temp increase etc.
 # you do not need to set all values, if you would only like to have a notification if the average mining speed drops below a certain value
 # then a properties file with only one value in it would be sufficient (example : GHS av<450.69 ) 
