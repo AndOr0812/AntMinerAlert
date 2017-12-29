@@ -4,7 +4,7 @@
 # This tool is a stand alone client which can run on linux / windows (Java 1.6 or higher needed)
 #  you will need to schedule the run.bat / run.sh yourself as a crontab or windows scheduled job 
 # 
-# Not mend to run on an Antminer itself!
+# Not meant  to run on an Antminer itself!
 # for each Antminer you need to create a new X.properties file where X can be anything
 # The location of the properties file is the conf directory.
 # Example for my L3+ I made L3plus.properties
